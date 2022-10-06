@@ -3,5 +3,5 @@ var op=0;
 for(i=0;i<5;i++)
 {
     op = prompt("Enter Value");
-    document.write(op);
+    document.write("The Values are :" + op);
 }
